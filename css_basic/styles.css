@@ -6,7 +6,8 @@ body {
     font-size: 20px; }
 
 .logo { height: 50px;
-        width: 50px; }
+        width: 50px;
+    font-size: larger; }
  
 main {
     display: flex;
