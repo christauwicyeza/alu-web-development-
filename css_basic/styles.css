@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: blue;
+    font-style: italic;
+    font-size: 20px; }
+
+main {
+    display: flex;
+    flex-direction: row;
+    flex: auto; }
+
+article {
+    flex: 2;
+    overflow: auto; }
+
+aside {
+    flex: 1;
+    overflow: auto; }
+    
